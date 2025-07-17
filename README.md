@@ -3,6 +3,7 @@
 # Prazer, Vitor aqui!! 
 
 Quem sou eu?
+
 Sou formado em Gestão em Tecnologia da Informação e estou no início da minha jornada acadêmica na Unicesumar, onde comecei meus estudos em 2023. Além disso, curso programação e desenvolvimento, áreas que admiro pela capacidade de transformar ideias em soluções práticas e funcionais. Mais do que isso, valorizo o aprendizado contínuo que cada novo desafio me proporciona. A cada dia, sinto que os códigos e projetos me trazem novos conhecimentos, e é essa descoberta constante que me mantém motivado. Gosto de estudar, inovar e aprender sempre mais.
 ## Ferramentas e Tecnologias
 
